@@ -1,7 +1,7 @@
 #
 # Task 3: A mass analyser
 #converter from sequence to mass (mass/charge), which accepts peptides/proteins in fasta format
-#Harsini Raaja Sulochana 11179122
+#Author: Harsini R S
 #
 
 
