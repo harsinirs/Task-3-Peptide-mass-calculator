@@ -9,10 +9,7 @@ File conanting peptide sequence, identifier and peptide number in Fasta format.
 
 #Output:
 Your output should be something of the form-
-Prot_name   peptide   mass-to-charge   z   p   sequence
-ABC1_YEAST   1         1234.5678       1   0 ALTAMCMNVWEITYHK
-ABC1_YEAST   2         894.3019        1   0 SSLPMAR
-ABC1_YEAST   3         1031.6791       1   0 MNASFFAAQL
+![readme](https://github.com/harsinirs/Task-3-Peptide-mass-calculator/assets/133403437/c5284452-a80e-49b0-b57b-e63c954f5d20)
 
 Where “peptide” is the number of the peptide in the protein, z is the charge of the ion (+1 by default),
 and p is the number of missed cleavages (relies on task 2 to pass this information on. If
